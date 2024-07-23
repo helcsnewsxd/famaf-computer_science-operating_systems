@@ -1,0 +1,12 @@
+[submodule "lab1"]
+	path = lab1
+	url = https://github.com/helcsnewsxd/famaf-computer_science-operating_systems-lab1
+[submodule "lab2"]
+	path = lab2
+	url = https://github.com/helcsnewsxd/famaf-computer_science-operating_systems-lab2
+[submodule "lab3"]
+	path = lab3
+	url = https://github.com/helcsnewsxd/famaf-computer_science-operating_systems-lab3
+[submodule "lab4"]
+	path = lab4
+	url = https://github.com/helcsnewsxd/famaf-computer_science-operating_systems-lab4
